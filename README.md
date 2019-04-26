@@ -1,4 +1,4 @@
-Written in the early 2015.
+Written the early 2015.
 
 The ouput file contains the printed output of the application, it contains the calculated matrix, the tasks chosen and their sum.
 
